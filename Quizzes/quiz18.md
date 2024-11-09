@@ -16,3 +16,4 @@ for i in range(1, 8+1):
 print(out)
 ```
 ## Proof of Work
+![image](https://github.com/user-attachments/assets/8cc7fb56-137b-4ff1-bb35-a1cb8b4f5f22)

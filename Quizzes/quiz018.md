@@ -1,6 +1,7 @@
 # Quiz 018
 
 ## Paper Solution
+![image](https://github.com/user-attachments/assets/489ca931-4c44-4e75-92b2-eb6e2ca53e92)
 
 ## Code
 ```.py

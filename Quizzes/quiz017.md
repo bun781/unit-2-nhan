@@ -1,6 +1,7 @@
 # Quiz 017
 
 ## Paper Solution
+![image](https://github.com/user-attachments/assets/7b0741ed-0d4d-4e6b-b15e-206440276078)
 
 ## Code
 ```.py
@@ -16,5 +17,6 @@ for i in range(1, 8+1):
 print(out)
 ```
 ## Proof of Work
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/fc788506-e835-443f-b93e-cd08bedfe057)
+
 

@@ -1,7 +1,8 @@
 # Quiz 026
 
 ## Paper Solution
-Paper part not uploaded to quiz slides yet.
+![image](https://github.com/user-attachments/assets/7e155663-b2c1-4894-ab93-a40cd2d6ba64)
+
 ## Code
 ```.py
 def flip(in_dict):

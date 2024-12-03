@@ -27,3 +27,5 @@ plt.legend()
 plt.show()
 ```
 ## Proof of Work
+![image](https://github.com/user-attachments/assets/56e9b4a9-8bf0-4ad7-974c-63d91d4243cf)
+

@@ -1,7 +1,8 @@
 # Quiz 027
 
 ## Paper Solution
-Paper part not uploaded to quiz slides yet.
+![image](https://github.com/user-attachments/assets/2b176d70-503a-4f50-8ef3-4931b8aed318)
+
 ## Code
 ```.py
 def sort_dict(in_dict):
